@@ -1,6 +1,6 @@
 h1. iPhone 4 SDK Frame
 
-h2. By Hunter Dolan
+h4. By Hunter Dolan
 "http://hdcomputers.us/":http://hdcomputers.us/
 
 ---------------------------------------------------------------------
