@@ -1,16 +1,16 @@
 h1. iPhone 4 SDK Frame
 
-h3. By Hunter Dolan
+h2. By Hunter Dolan
 
-h3. http://hdcomputers.us/
+h2. "http://hdcomputers.us/":http://hdcomputers.us/
 
---------------------
-h4. How to Install
+---------------------------------------------------------------------
+h2. How to Install
 
 p. Install is very simple simply run the installer package!
 
 
--------------------------
+---------------------------------------------------------------------
 
 h4. Credits!
 
